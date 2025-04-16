@@ -1,0 +1,4 @@
+date,product_id,name,category,department,price,stock_level,sales,previous_price,month,day
+2024-01-01,DB1,Amul Full Cream Milk (1L),Dairy,2,68.99,300,245,68.50,1,1
+2024-01-02,DB1,Amul Full Cream Milk (1L),Dairy,2,68.99,280,238,68.99,1,2
+2024-01-03,DB1,Amul Full Cream Milk (1L),Dairy,2,69.50,260,242,68.99,1,3
